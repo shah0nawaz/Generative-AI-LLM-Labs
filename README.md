@@ -20,11 +20,11 @@ In this article we are dicussiong different inference methods of LLMs.
 !pip install transformers
   ```
 
-```
+```python
 # Loading required modules 
 from datasets import load_dataset # load_dataset class from dataset to load a data
 from transformers import AutoModelForSeq2SeqLM # use for loading model LLM model 
 from transformers import AutoTokenizer  # use for tokenizing in the embedding space
 from transformers import GenerationConfig # use for setting the configuration of an LLM model
-```
+
   

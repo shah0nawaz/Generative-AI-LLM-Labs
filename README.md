@@ -5,8 +5,8 @@ In-context learning is very inexpensive method for learning LLMs, which sometime
 
 In this article we are dicussiong different inference methods of LLMs.
 
-Without prompt engineering
-Zero-shot
-One-shot
-Few-shot
-setting model configuration
+- Without prompt engineering
+- Zero-shot
+- One-shot
+- Few-shot
+- setting model configuration
